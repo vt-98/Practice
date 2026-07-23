@@ -73,3 +73,8 @@ where std_name='학생100';
 select team_name std_name proj_topic
 from std_tbl
 order by team_id;
+
+14test.
+select team_name std_name proj_topic
+from std_tbl
+order by team_id;
